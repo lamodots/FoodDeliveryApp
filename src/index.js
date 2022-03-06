@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Hero from './Hero';
+
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Hero />
+
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -28,48 +28,4 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-/* Hero syles*/
-.Hero-Container{
-  
-  display:flex;
- 
-  justify-content:center;
-  width:100%;
 
-}
-.Content{
-  width:600px;
-
-}
-.Heading-1{
-  padding-top:120px;
-  font-size:48px;
-  line-height:1.5;
-  color:pink;
-}
-.HeroParagraph{
-  font-size:16px;
-  font-weight:600;
-  margin-bottom:30px;
-}
-.Cta{
-  
-  background-color:pink;
-  padding:16px 28px;
-  border-radius:4px;
-}
-.Illustration{
-  
-  padding:20px;
-}
-.illustare{
-  width:500px;
-}
